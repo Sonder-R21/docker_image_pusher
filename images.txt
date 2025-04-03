@@ -7,3 +7,4 @@ xhofe/alist:latest
 ubuntu
 httpd
 timescale/timescaledb:latest-pg15
+zerotier/zerotier:latest
